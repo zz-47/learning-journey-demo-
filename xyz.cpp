@@ -5,7 +5,7 @@
   int main()
   {
     
-    int button = true;
+    cout << "A button" << endl;
 
     return 0;
   }
