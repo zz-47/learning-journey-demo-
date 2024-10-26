@@ -5,7 +5,7 @@
   int main()
   {
     
-    cout << "New change" << endl;
-    
+    int button = true;
+
     return 0;
   }
